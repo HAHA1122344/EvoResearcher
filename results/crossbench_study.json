@@ -1,0 +1,183 @@
+{
+  "gsm8k": {
+    "d1": {
+      "n": 100,
+      "acc": 0.94,
+      "ci": [
+        0.8752303146877748,
+        0.9722142547333433
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 0.0,
+      "calls": 100,
+      "avg_tokens": 541.43,
+      "tokens": 54143
+    },
+    "d3": {
+      "n": 100,
+      "acc": 0.98,
+      "ci": [
+        0.9299868370580063,
+        0.9944981477650318
+      ],
+      "avg_steps": 2.11,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.91,
+      "calls": 211,
+      "avg_tokens": 992.73,
+      "tokens": 99273
+    }
+  },
+  "date": "2026-08-17 22:04:10",
+  "math": {
+    "d1": {
+      "n": 100,
+      "acc": 0.26,
+      "ci": [
+        0.18404578126986462,
+        0.35371172631861636
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 0.0,
+      "calls": 100,
+      "avg_tokens": 885.91,
+      "tokens": 88591
+    },
+    "d3": {
+      "n": 100,
+      "acc": 0.4,
+      "ci": [
+        0.3093997461136028,
+        0.4979992153815976
+      ],
+      "avg_steps": 2.36,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.86,
+      "calls": 236,
+      "avg_tokens": 2270.93,
+      "tokens": 227093
+    }
+  },
+  "bbh_tau": [
+    {
+      "tau": 0.0,
+      "n": 100,
+      "acc": 0.76,
+      "ci": [
+        0.6676748127670786,
+        0.8330878873454004
+      ],
+      "avg_steps": 2.06,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.83,
+      "calls": 206,
+      "avg_tokens": 1061.24,
+      "tokens": 106124,
+      "cell": "run",
+      "calls_saved": 0,
+      "calls_saved_pp": 0.0
+    },
+    {
+      "tau": 0.6,
+      "n": 100,
+      "acc": 0.79,
+      "ci": [
+        0.7001985069803768,
+        0.8583445046835422
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 1.0,
+      "calls": 100,
+      "avg_tokens": 474.58,
+      "tokens": 47458,
+      "cell": "run",
+      "calls_saved": 106,
+      "calls_saved_pp": 51.45631067961165
+    },
+    {
+      "tau": 0.7,
+      "n": 100,
+      "acc": 0.81,
+      "ci": [
+        0.7222097592919214,
+        0.8748534600729574
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 1.0,
+      "calls": 100,
+      "avg_tokens": 453.05,
+      "tokens": 45305,
+      "cell": "run",
+      "calls_saved": 106,
+      "calls_saved_pp": 51.45631067961165
+    },
+    {
+      "tau": 0.8,
+      "n": 100,
+      "acc": 0.8,
+      "ci": [
+        0.7111690380734977,
+        0.8666340774409013
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 1.0,
+      "calls": 100,
+      "avg_tokens": 435.58,
+      "tokens": 43558,
+      "cell": "run",
+      "calls_saved": 106,
+      "calls_saved_pp": 51.45631067961165
+    },
+    {
+      "tau": 0.9,
+      "n": 100,
+      "acc": 0.77,
+      "ci": [
+        0.6784543514317231,
+        0.841568452531236
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 1.0,
+      "calls": 100,
+      "avg_tokens": 678.04,
+      "tokens": 67804,
+      "cell": "run",
+      "calls_saved": 106,
+      "calls_saved_pp": 51.45631067961165
+    },
+    {
+      "tau": 1.0,
+      "n": 100,
+      "acc": 0.81,
+      "ci": [
+        0.7222097592919214,
+        0.8748534600729574
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 0.0,
+      "calls": 100,
+      "avg_tokens": 891.53,
+      "tokens": 89153,
+      "cell": "run",
+      "calls_saved": 106,
+      "calls_saved_pp": 51.45631067961165
+    }
+  ],
+  "model": "deepseek-v4-flash",
+  "n_bbh": 100,
+  "n_gsm8k": 100,
+  "n_math": 100,
+  "config": {
+    "temp": 0.3,
+    "seed": 42,
+    "max_depth": 3,
+    "meta_system": "You are EvoResearcher. Balance CORRECTNESS, EFFICIENCY, REFLECTION, DIVERSITY. Output final answer in <answer> tags."
+  }
+}

@@ -1,0 +1,20 @@
+# Paper manuscript (not bundled in this code release)
+EvoResearcher.tex
+EvoResearcher.pdf
+EvoResearcher.bib
+
+# Paper figures
+figure1.png
+figure3.png
+figure5.png
+figures/fig01_overview.pdf
+figures/fig03_meta_reward.pdf
+
+# Legacy framework modules carried over from the MetaResearcher codebase
+# (not used by the experiments; the experiment scripts are self-contained)
+code/src/
+code/configs/
+code/notebooks/
+
+# macOS
+.DS_Store

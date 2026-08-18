@@ -1,0 +1,1667 @@
+{
+  "shared": {
+    "d1": [
+      {
+        "id": "boolean_expressions-100",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-150",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-0",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-50",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-200",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-0",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-37",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-0",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-50",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-100",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-150",
+        "task": "date_understanding",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-74",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-200",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-148",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-0",
+        "task": "disambiguation_qa",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-150",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-100",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-50",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-200",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-0",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-50",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-100",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-150",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-0",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-50",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-100",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-150",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-200",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-0",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-50",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-100",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-150",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-0",
+        "task": "hyperbaton",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-200",
+        "task": "geometric_shapes",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-50",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-100",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-150",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-200",
+        "task": "hyperbaton",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-0",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-100",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-50",
+        "task": "logical_deduction_five_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-200",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-150",
+        "task": "logical_deduction_five_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-200",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-100",
+        "task": "logical_deduction_seven_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-150",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-200",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-0",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-50",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-100",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-150",
+        "task": "logical_deduction_three_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-200",
+        "task": "logical_deduction_three_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-111",
+        "task": "causal_judgement",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-50",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-0",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-0",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-200",
+        "task": "movie_recommendation",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-0",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-50",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-100",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-150",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-200",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-0",
+        "task": "navigate",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-50",
+        "task": "navigate",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-100",
+        "task": "navigate",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-150",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-150",
+        "task": "navigate",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-200",
+        "task": "navigate",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-0",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-100",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-50",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-200",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-150",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-0",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-29",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-58",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-87",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-50",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-50",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-0",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-116",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-200",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-150",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-100",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-0",
+        "task": "ruin_names",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-50",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-100",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-0",
+        "task": "salient_translation_error_detection",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-200",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-100",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-150",
+        "task": "ruin_names",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-50",
+        "task": "salient_translation_error_detection",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-150",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-35",
+        "task": "snarks",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-0",
+        "task": "snarks",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-200",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-70",
+        "task": "snarks",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-105",
+        "task": "snarks",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-140",
+        "task": "snarks",
+        "correct": false,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-100",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 1,
+        "early_stopped": false,
+        "first_conf": null
+      }
+    ],
+    "d3": [
+      {
+        "id": "boolean_expressions-100",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-150",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-0",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-200",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-0",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "boolean_expressions-50",
+        "task": "boolean_expressions",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-37",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-0",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-50",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-100",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-74",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-150",
+        "task": "date_understanding",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "date_understanding-200",
+        "task": "date_understanding",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-148",
+        "task": "causal_judgement",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-50",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-150",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-0",
+        "task": "disambiguation_qa",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-200",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "disambiguation_qa-100",
+        "task": "disambiguation_qa",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-50",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-0",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-100",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-150",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-0",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-50",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-100",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-150",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "formal_fallacies-200",
+        "task": "formal_fallacies",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-50",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-0",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-100",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-150",
+        "task": "geometric_shapes",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "geometric_shapes-200",
+        "task": "geometric_shapes",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-0",
+        "task": "hyperbaton",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-50",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-100",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-150",
+        "task": "hyperbaton",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-0",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "hyperbaton-200",
+        "task": "hyperbaton",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-50",
+        "task": "logical_deduction_five_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-100",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-150",
+        "task": "logical_deduction_five_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_five_objects-200",
+        "task": "logical_deduction_five_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-0",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-50",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-100",
+        "task": "logical_deduction_seven_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-150",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_seven_objects-200",
+        "task": "logical_deduction_seven_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-0",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-50",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-100",
+        "task": "logical_deduction_three_objects",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-150",
+        "task": "logical_deduction_three_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "logical_deduction_three_objects-200",
+        "task": "logical_deduction_three_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "dyck_languages-200",
+        "task": "dyck_languages",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-0",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-150",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-100",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-0",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-200",
+        "task": "movie_recommendation",
+        "correct": false,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-50",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-100",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-150",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "multistep_arithmetic_two-200",
+        "task": "multistep_arithmetic_two",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-0",
+        "task": "navigate",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-50",
+        "task": "navigate",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "causal_judgement-111",
+        "task": "causal_judgement",
+        "correct": false,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-100",
+        "task": "navigate",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-0",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-150",
+        "task": "navigate",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "navigate-200",
+        "task": "navigate",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-100",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-200",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-50",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-0",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-29",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-58",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-116",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "penguins_in_a_table-87",
+        "task": "penguins_in_a_table",
+        "correct": true,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-50",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 3,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "object_counting-150",
+        "task": "object_counting",
+        "correct": true,
+        "steps": 3,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-0",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-150",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-200",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "reasoning_about_colored_objects-100",
+        "task": "reasoning_about_colored_objects",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-0",
+        "task": "ruin_names",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-50",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-150",
+        "task": "ruin_names",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-100",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-0",
+        "task": "salient_translation_error_detection",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "ruin_names-200",
+        "task": "ruin_names",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-100",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-150",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-50",
+        "task": "salient_translation_error_detection",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "salient_translation_error_detection-200",
+        "task": "salient_translation_error_detection",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-35",
+        "task": "snarks",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-70",
+        "task": "snarks",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-105",
+        "task": "snarks",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-0",
+        "task": "snarks",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      },
+      {
+        "id": "snarks-140",
+        "task": "snarks",
+        "correct": false,
+        "steps": 2,
+        "early_stopped": false,
+        "first_conf": null
+      },
+      {
+        "id": "movie_recommendation-50",
+        "task": "movie_recommendation",
+        "correct": true,
+        "steps": 2,
+        "early_stopped": true,
+        "first_conf": null
+      }
+    ]
+  },
+  "date": "2026-08-17 16:52:08",
+  "depth_sweep": [
+    {
+      "max_depth": 1,
+      "n": 100,
+      "acc": 0.74,
+      "ci": [
+        0.6462882736813838,
+        0.8159542187301354
+      ],
+      "avg_steps": 1.0,
+      "loop_rate": 0.0,
+      "early_stop_rate": 0.0,
+      "calls": 100,
+      "cell": "shared_d1"
+    },
+    {
+      "max_depth": 2,
+      "n": 100,
+      "acc": 0.74,
+      "ci": [
+        0.6462882736813838,
+        0.8159542187301354
+      ],
+      "avg_steps": 2.0,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.85,
+      "calls": 200,
+      "cell": "run"
+    },
+    {
+      "max_depth": 3,
+      "n": 100,
+      "acc": 0.74,
+      "ci": [
+        0.6462882736813838,
+        0.8159542187301354
+      ],
+      "avg_steps": 2.08,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.82,
+      "calls": 208,
+      "cell": "shared_d3"
+    },
+    {
+      "max_depth": 4,
+      "n": 100,
+      "acc": 0.73,
+      "ci": [
+        0.6356769977376873,
+        0.8073053908233518
+      ],
+      "avg_steps": 2.06,
+      "loop_rate": 1.0,
+      "early_stop_rate": 0.88,
+      "calls": 206,
+      "cell": "run"
+    }
+  ]
+}
